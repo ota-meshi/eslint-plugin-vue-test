@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-vue-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . --ext .vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ota-meshi/eslint-plugin-vue-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ota-meshi/eslint-plugin-vue-test/issues"
+  },
+  "homepage": "https://github.com/ota-meshi/eslint-plugin-vue-test#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-vue": "^5.0.0-beta.3"
+  }
+}
